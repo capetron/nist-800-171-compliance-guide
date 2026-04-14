@@ -28,6 +28,17 @@ Contributions are welcome! Please open an issue or submit a pull request.
 This work is licensed under CC-BY-SA-4.0.
 
 
+## Professional Compliance Services
+
+Need help implementing these controls? **Petronella Technology Group** provides comprehensive compliance consulting:
+
+- [NIST 800-171 Compliance](https://petronellatech.com/compliance/nist-800-171-compliance/) - CUI protection and DFARS alignment
+- [CMMC Compliance Guide](https://petronellatech.com/compliance/cmmc-compliance-guide/) - Full CMMC Level 2 preparation
+- [Cybersecurity Services](https://petronellatech.com/cybersecurity/) - Managed security and assessments
+- [AI-Powered Security](https://petronellatech.com/ai/ai-services/) - AI infrastructure with compliance built in
+
+**Petronella Technology Group** is a CMMC-RP certified cybersecurity firm headquartered in Raleigh, NC. Our entire team holds CMMC Registered Practitioner credentials. [Contact us](https://petronellatech.com/contact-us/) or call (919) 348-4912.
+
 ## About Petronella Technology Group
 
 [Petronella Technology Group (PTG)](https://petronellatech.com) has provided cybersecurity,
